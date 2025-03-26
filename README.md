@@ -13,7 +13,7 @@
 
 🎯 Estudante em **desenvolvimento Full-Stack**.  
 📌 Trabalho com **tecnologias modernas** para desenvolvimento web e aplicações robustas.  
-📩 Se deseja entrar em contato, sinta-se à vontade!  
+📩 Aberto a oportunidades e colaborações. Entre em contato!"  
 
 ---
 
