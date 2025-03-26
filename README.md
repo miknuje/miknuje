@@ -11,7 +11,7 @@
 
 ## 🖥️ Sobre mim  
 
-🎯 Estudante em **desenvolvimento Full-Stack**, focado em criar soluções escaláveis e eficientes.  
+🎯 Estudante em **desenvolvimento Full-Stack**.  
 📌 Trabalho com **tecnologias modernas** para desenvolvimento web e aplicações robustas.  
 📩 Se deseja entrar em contato, sinta-se à vontade!  
 
