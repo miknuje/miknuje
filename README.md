@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**miknuje/miknuje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor(a) Front-end/Back-end/Full-Stack  
+🌍 De [Sua Cidade/País]  
+📚 Aprendendo [Tecnologias que está estudando]  
+🎯 Metas: [Suas metas profissionais]  
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+
+### 📫 Como me encontrar
+- LinkedIn: [Meu LinkedIn](https://linkedin.com/in/seu-perfil)  
+- Portfólio: [Meu Site](https://seusite.com)  
+- E-mail: seu-email@exemplo.com  
