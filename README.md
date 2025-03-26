@@ -29,7 +29,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miknuje&show_icons=true&theme=radical&hide_border=false">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miknuje&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miknuje&theme=radical">
 </div>
 
 ---
