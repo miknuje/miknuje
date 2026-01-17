@@ -3,12 +3,6 @@
   Olá, eu sou o Renato!
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia;Construindo+soluções+eficientes;Sempre+aprendendo+e+evoluindo">
-</p>
-
----
-
 ## 🖥️ Sobre mim  
 
 🎯 Estudante em **desenvolvimento Full-Stack**.  
@@ -22,15 +16,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nodejs,express,nextjs,git,github,mysql,mongodb,figma" />
 </p>
-
----
-
-## 📊 Estatísticas  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miknuje&show_icons=true&theme=radical&hide_border=false">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miknuje&theme=radical">
-</div>
 
 ---
 
